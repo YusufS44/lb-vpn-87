@@ -1,9 +1,9 @@
 variable project {
-    default = "a-vpn-425110"
+    default = "2nd-project-id"
 }
 
 variable credentials {
-    default = "a-vpn-425110-5b153b91d375.json"
+    default = "your-other-key.json"
 }
 
 variable network_name {
